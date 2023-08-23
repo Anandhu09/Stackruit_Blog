@@ -72,8 +72,11 @@ List the technologies and libraries used in your application.
 - MongoDB
 - Mongoose
 - Joi (for validation)
-- ...
+  
+  
+## Google Cloud Functions Deployed link
 
+https://anandhu---blogpost-czhm3az5rq-el.a.run.app
 
 
 Feel free to ask any questions you have about this project @ anandhu.vikraman007@gmail.com !

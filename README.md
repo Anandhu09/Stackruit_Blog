@@ -9,9 +9,9 @@ This is a brief description of this blog application.
   - [Installation](#installation)
 - [Usage](#usage)
 - [API Routes](#api-routes)
+- [Google Cloud Functions Deployed link](#google-cloud-functions-deployed-link)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -63,6 +63,11 @@ List and explain the API routes available in your application:
 - \`PUT /blog/:id\`: Update a blog post by ID.
 - \`DELETE /blog/:id\`: Delete a blog post by ID.
 
+  
+## Google Cloud Functions Deployed link
+
+https://anandhu---blogpost-czhm3az5rq-el.a.run.app
+
 ## Technologies Used
 
 List the technologies and libraries used in your application.
@@ -73,10 +78,6 @@ List the technologies and libraries used in your application.
 - Mongoose
 - Joi (for validation)
   
-  
-## Google Cloud Functions Deployed link
-
-https://anandhu---blogpost-czhm3az5rq-el.a.run.app
 
 
 Feel free to ask any questions you have about this project @ anandhu.vikraman007@gmail.com !

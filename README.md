@@ -83,5 +83,5 @@ List the technologies and libraries used in your application.
   
 
 
-Feel free to ask any questions you have about this project @ anandhu.vikraman007@gmail.com !
+Feel free to ask any questions if you have any doubts about this project @ anandhu.vikraman007@gmail.com !
 EOF

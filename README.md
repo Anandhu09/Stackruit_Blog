@@ -1,7 +1,6 @@
-cat << EOF > README.md
-# Your Application Name
+# Blog Application
 
-This is a brief description of your application.
+This is a brief description of this blog application.
 
 ## Table of Contents
 
@@ -52,7 +51,7 @@ The server will run on \`http://localhost:3000\`.
 
 ## Usage
 
-Explain how to use your application, its features, and any additional information that might be helpful for users.
+You can use these APIs which is mentioned below 
 
 ## API Routes
 
@@ -73,7 +72,7 @@ List the technologies and libraries used in your application.
 - MongoDB
 - Mongoose
 - Joi (for validation)
-- ...
+
 
 
 

@@ -47,11 +47,11 @@ npm install
 npm start
 \`\`\`
 
-The server will run on \`http://localhost:3000\`.
+The server will run on \`http://localhost:8082\`.
 
 ## Usage
 
-You can use these APIs which is mentioned below 
+You can use these APIs which is ment 
 
 ## API Routes
 
@@ -72,7 +72,7 @@ List the technologies and libraries used in your application.
 - MongoDB
 - Mongoose
 - Joi (for validation)
-
+- ...
 
 
 

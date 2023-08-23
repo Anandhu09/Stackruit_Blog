@@ -68,6 +68,9 @@ List and explain the API routes available in your application:
 
 https://anandhu---blogpost-czhm3az5rq-el.a.run.app
 
+Use each particular api endpoints to this GCF deployed link to explore the CRUD Operations. 
+Use POSTMAN for try out all the HTTP Requests.
+
 ## Technologies Used
 
 List the technologies and libraries used in your application.
